@@ -14,4 +14,5 @@ public class Node{
     public int getValue() {
         return this.value;
     }
+
 }
